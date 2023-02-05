@@ -1,3 +1,9 @@
+I dont always like to upload my pdf to online platforms due to my privacy concerns.
+
+Furhter the limits they have bother me a little too much
+
+Here is a handy python script for merging multiple pdf into one big fat pdf :) 
+
 Using PyPDF2 library to merge multiple PDF files into one in Python. 
 
 Code combines all PDF files in the current directory
